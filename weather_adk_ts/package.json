@@ -1,0 +1,20 @@
+{
+  "name": "weather_adk_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agent.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@google/adk": "^0.2.2",
+    "@google/adk-devtools": "^0.2.2"
+  }
+}
