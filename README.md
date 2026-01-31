@@ -18,3 +18,7 @@ Next call it from ADK:
 - Run `npx @google/adk-devtools web`
 
 For more information or to follow from scratch checkout the above article!
+
+## Update:
+
+This repo now also has the AWS SNS-SQS-MCP server implementation with ADK, don't forget to checkout Part2: [Extending MCP Agents with the AWS MCP Server: Why Python ADK Shines?!](https://awstip.com/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-c2d500375d50) to learn how to setup the AWS SNS topic and subscription before running this. 
